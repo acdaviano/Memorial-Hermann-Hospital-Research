@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jun 14 10:06:54 2020
-
-@author: acdav
+@author: Dr. acdaviano
 """
 #NORMAL PYTHON TOOLS
 import numpy as np
