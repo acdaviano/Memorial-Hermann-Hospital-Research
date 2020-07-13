@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jun 27 22:25:19 2020
-
-@author: acdav
+@author: Dr. acdaviano
 """
 
 # Lets import all of our packages to do our analysis.
